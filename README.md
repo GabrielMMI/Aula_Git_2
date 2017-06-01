@@ -1,7 +1,7 @@
 ## AULA DE GIT
 
-Esse é o meu primeiro repositorio criado no terminal. Aprendi tudo nessa aula
+Criando o README
 
 ## MINHA OPNIAO
 
-Foi foda.
+Foi foda 2.
